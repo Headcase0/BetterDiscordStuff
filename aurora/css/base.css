@@ -256,7 +256,7 @@ body::before {
 
 /*3.b. Dividers*/
 .unreadBar-3YD_k9 {background:var(--main-color);}
-.newMessagesBar-mujexs button {color:#fff !important;}
+.newMessagesBar-mujexs button {color:#1CB200 !important;}
 .divider-3gKybi {padding-top: 10px;}
 .dividerContent-2L12VI:before,
 .dividerContent-2L12VI:after,
@@ -264,7 +264,7 @@ body::before {
 	display:none;
 }
 .da-newMessagesBar {
-    background:var(--hover-color) !important;
+    background:var(--main-color) !important;
 }
 .chat-3bRxxu .jumpToPresentBar-9P20AM button:first-child {display:none}
 .jumpToPresentBar-9P20AM{left:auto!important;}
@@ -1860,7 +1860,7 @@ body:active .alt-3btY0e.menu-Sp6bN1:not(:active) {opacity: 0;transition:150ms ea
   margin-left: 25%;
 }
 .standardSidebarView-3F1I7i .noticeRegion-1YviSH {
-  transform: translateX(25%) !important;
+  transform: translateX(0%) !important;
 }
 .premium-settings .premium-header,
 .premium-settings .features-vNGwn7 {
